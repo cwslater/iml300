@@ -1,0 +1,30 @@
+.topnav a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 1px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.coleslaer a {
+    font-size: 17px;
+    color: black;
+}
+
+
+.homepagebg {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    padding: 0;
+    margin: 0
+}
+
+.container .topnav {
+    position: absolute;
+}
