@@ -1,0 +1,15 @@
+{
+	"manifest_version": 2,
+	"name": "Sculptural Infinty by Cole Slater",
+	"version": "1.0",
+    "icons": {
+        "128": "icon/blob.png"
+    },
+	"description": "“Sculptural Infinity” is a virtual installation artwork designed by Cole Slater.  Because of the pandemic, many have been denied the opportunity to visit local museums.  “Sculptural Infinity” was created so that anyone can have an a work of art on their browser that is always changing and never looks same.  Every time you open a new tab, a slightly different sculpture appears.",
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+	"permissions": [
+		"activeTab"
+	]
+}

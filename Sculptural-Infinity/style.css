@@ -1,0 +1,9 @@
+<canvas id="canvas"></canvas>
+
+html, body {
+    margin:0;
+    overflow:hidden;
+    padding: 10px;
+    background-color:black
+}
+
