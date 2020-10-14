@@ -13,7 +13,7 @@
 5. Select the extension folder
 
 ### Other Chrome extension concepts I am interested in creating
-* Concept 1
-* Concept 2
-* Concept 3
-* Concept 4
+* Imaginary Friend: The imaginary friend chrome extension seems like fun and games, but becomes an online performance art piece demonstrating the dangers of emerging AI.
+* VOTE: This chrome extension would equip users with all the resources needed to vote as well as tools to help others register and submit their ballots.
+* Office Desk: This chrome extension would have the tools needed for anyone’s workspace: clock, timer, notepad, etc.
+* Journaling: This chrome extension pack would prompt the user with a randomly generated writing prompt to help stay in touch with the users emotions.
