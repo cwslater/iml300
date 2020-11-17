@@ -1,15 +1,19 @@
 .topnav a {
     float: right;
-    color: black;
+    color: white;
     text-align: center;
     padding: 1px 16px;
     text-decoration: none;
     font-size: 17px;
 }
 
-.coleslaer a {
+.coleslater {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 1px 16px;
+    text-decoration: none;
     font-size: 17px;
-    color: black;
 }
 
 
@@ -27,4 +31,15 @@ body {
 
 .container .topnav {
     position: absolute;
+}
+
+.mountains {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.pages {
+    color: white;
 }
